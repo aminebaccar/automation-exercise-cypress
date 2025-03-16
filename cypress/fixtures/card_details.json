@@ -1,0 +1,10 @@
+[
+    {
+        "id": "card_details",
+        "card_number": "4111111111111111",
+        "card_holder": "John Doe",
+        "expiration_month": "12",
+        "expiration_year": "2022",
+        "security_code": "123"
+    }
+]

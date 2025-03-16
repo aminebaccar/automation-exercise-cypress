@@ -1,0 +1,20 @@
+[
+    {
+        "id": "valid_registration",
+        "name": "Test Name",
+        "email": "unique_email@test.com",
+        "title": "Mr",
+        "password": "password",
+        "dob": "1-January-1990",
+        "firstName": "Test First",
+        "lastName": "Test Last",
+        "address1": "Test Address",
+        "address2": "Test Address 2",
+        "city": "Test City",
+        "country": "United States",
+        "state": "Test State",
+        "zipcode": "TE1 1ST",
+        "mobileNumber": "01234567890",
+        "company": "Test Company"
+    }
+]
